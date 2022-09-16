@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Harxhy
-- 👀 I’m newbie to coding
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on anywhere i could help.
 - 📫 mail at harxhywastaken@gmail.com or ig @harxhy or twts @harxhyy
