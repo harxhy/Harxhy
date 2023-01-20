@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Harsh :)
 - 💞️ I’m looking to collaborate on anywhere i could help.
-- 📫 mail at harxhywastaken@gmail.com or ig @harxhy or twts @harxhyy
+- 📫 mail at harsh44215@gmail.com
