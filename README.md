@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harsh Tiwari
 
-Welcome to my GitHub repository! I am a passionate data enthusiast and content creator, actively exploring the realms of data analytics,science , engineering, and creative content on platforms like Airedify. 🚀
+Welcome to my GitHub repository! I am a passionate data enthusiast and content creator, actively exploring the realms of data analytics, science , engineering, and creative content on platforms like Airedify. 🚀
 
 ## 🔍 What I Do
 - 📊 **Data Analytics and Science:** A Mathematics and Computing graduate with a strong foundation in Data Analytics, Data Science, Machine learning and Artificial Intelligence, I specialize in extracting meaningful insights from complex datasets using Python, SQL, and various analytical tools.
